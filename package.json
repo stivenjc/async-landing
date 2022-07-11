@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "deploy": "gh-áges -d src"
+    "deploy": "gh-pages -d src"
   },
   "repository": {
     "type": "git",
